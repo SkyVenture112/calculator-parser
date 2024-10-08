@@ -1,6 +1,6 @@
 # calculator-parser
 
-This program takes in an expression as a command-line argument and parses and evaluates it, then outputs the result. It implements a stack-based approach to ensure parentheses logic and correct order of operations.
+This program takes in an expression as a command-line argument and parses and evaluates it, then outputs the result. It implements a stack-based approach to ensure parentheses logic and correct order of operations. The calculator currently supports addition, multiplication, and exponentiation operations.
 
 ``evaluate_expression(expression)``:
 
